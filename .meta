@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "rest-ahk": "git@github.com:zvecr/rest-ahk.git",
+    "vue-ahk": "git@github.com:zvecr/vue-ahk.git"
+  }
+}
