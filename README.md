@@ -4,6 +4,10 @@
 ![Website](https://img.shields.io/website/http/ahk.zvecr.com.svg)
 ![Service](https://img.shields.io/website/http/rest-ahk.zvecr.com/status.svg?label=service)
 
+Subprojects:
+* Website [vue-ahk](https://github.com/zvecr/vue-ahk)
+* Service [rest-ahk](https://github.com/zvecr/rest-ahk)
+
 ## Getting Started
 
 1. Install Dependencies
